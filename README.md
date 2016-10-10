@@ -25,12 +25,13 @@ git clone https://github.com/electron/electron-quick-start
 cd electron-quick-start
 # Install dependencies and run the app
 npm install && npm start
-```
+
 # Install electron packager
 npm install electron-packager -g
 npm install electron-packager --save-dev
 # package application
 npm run package
+```
 
 Learn more about Electron and its API in the [documentation](http://electron.atom.io/docs/latest).
 
